@@ -150,7 +150,7 @@ How to Run the Project
 
 Clone the repository
 
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/Ruthu543/customer_behavior_analysis
 
 Install required Python libraries
 
